@@ -2,8 +2,8 @@
   "autoload":
   {
     "psr-4":
+    "shop\\": "vendor/shop/core",
     {
-      "shop\\": "vendor/shop/composer",
       "app\\": "app"
     }
   },
