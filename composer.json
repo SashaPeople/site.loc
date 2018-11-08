@@ -1,0 +1,11 @@
+{
+  "autoload":
+  {
+    "psr-4":
+    {
+      "shop\\": "vendor/shop/composer",
+      "app\\": "app"
+    }
+  },
+  "require":{}
+}
